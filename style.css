@@ -1,0 +1,23 @@
+.navbar {
+    background-color: rgb(5, 24, 72);
+}
+
+.header{
+    width: 100%;
+    min-height: 100vh;
+    background-color:darkblue;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.65),rgba(0, 0, 0, 0.65)),url(./images/Header.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.cover {
+    width: 100%;
+    min-height: 100vh;
+    background-color:darkblue;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.65),rgba(0, 0, 0, 0.65)),url(./images/phenomenon-stars-night-sky-starry-night-wallpaper-preview.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
